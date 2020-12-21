@@ -1,0 +1,8 @@
+#ifndef GLOBALFLAGS_HPP
+#define GLOBALFLAGS_HPP
+
+// ALL GLOBAL FLAGS SHALL BE LISTED HERE
+
+bool debug_flag = false;
+
+#endif // GLOBALFLAGS_HPP
